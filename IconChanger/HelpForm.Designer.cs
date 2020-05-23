@@ -58,8 +58,8 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(484, 40);
             this.label2.TabIndex = 2;
-            this.label2.Text = "If you have changed the icon for a drive multiple times, and the icon \r\nis no lon" +
-    "ger changes, you need to empty your thumbnails cache.\r\n";
+            this.label2.Text = "If you have changed the icon for a drive multiple times, and the icon \r\n no longe" +
+    "r changes, you need to empty your thumbnails cache.\r\n";
             // 
             // label3
             // 
