@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IconChanger.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -106,6 +109,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Help4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconChanger.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IconChanger.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
