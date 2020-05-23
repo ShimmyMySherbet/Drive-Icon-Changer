@@ -1,4 +1,4 @@
-# Drive-Icon-Changer
+# Drive Icon Changer
 A simple tool to change icons and labels of USBs or built-in drives. 
 
 Automatically formats the icon from most common image types. Uses bicubic image shrinking and 7 different image sizes in the output icon for the best results.
