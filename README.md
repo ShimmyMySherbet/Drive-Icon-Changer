@@ -15,8 +15,8 @@ Also works on internal drives.
 
 ## The Icon doesn't change, what do I do?
 
-After you change the icon, windows caches the thumbnail for the drive. This means that it's not retriving the new icon from the USB or Drive. The solution to fix this, is emptying
-window's thumbnail cache. This can be done through the Disck Clean-Up utility. There is a shortcut to this tool in the help menu, accessed through the 'Help' button.
+After you change the icon, windows caches the thumbnail for the drive. This means that it's not retrieving the new icon from the USB or Drive. The solution to fix this, is emptying
+window's thumbnail cache. This can be done through the Disk Clean-Up utility. There is a shortcut to this tool in the help menu, accessed through the 'Help' button.
 <img src="https://i.ibb.co/TKxrZ6r/image.png" width="650px">
 
 # Downloads
